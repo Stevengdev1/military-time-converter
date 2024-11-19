@@ -39,3 +39,8 @@ body {
     background-color: #0056b3;
   }
   
+  #militaryTime {
+    font-size: 18px;
+    color: darkgreen;
+    margin-top: 10px;
+  }
